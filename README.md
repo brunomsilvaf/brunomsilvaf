@@ -10,7 +10,7 @@
 </div>
 
 ---
-Over the past 5 years, I have worked with many amazing technologies and tools:
+Over the past years, I have worked with many amazing technologies and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
