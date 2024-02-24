@@ -7,14 +7,14 @@
 
 ---
 <div id="bio">
-  <h3> My name is Bruno and I am a Software Engineer from Coimbra, Portugal </h3>
+  <h3> My name is Bruno and I am a Software Engineer from Portugal </h3>
   <br/>
   <div id="social-media" align="center">
     <a href="https://brunomsilvaf.github.io/portfolio">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Website" alt="GitHubWebsite" width="100" height="100"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Website" alt="GitHubWebsite" width="100" height="80"/>
     </a>
     <a href="https://pt.linkedin.com/in/brunomsilvaf">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="100" height="100"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="100" height="80"/>
     </a>
   </div>
   <br/><br/>
