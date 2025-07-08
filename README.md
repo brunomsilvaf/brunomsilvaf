@@ -6,7 +6,7 @@
 
 ---
 <div id="bio">
-  <h3> I am Bruno, a Software Engineer from Portugal </h3>
+  <h3> I am Bruno, a Software Engineer from Portugal! </h3>
   <br/>
   You can go ahead and check my personal page or LinkedIn. 
   <br/>
