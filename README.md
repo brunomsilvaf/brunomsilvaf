@@ -1,7 +1,6 @@
 
 <div id="header" align="center">
   <h3> Olá!👋 </h3>
-  <h3> Welcome to my GitHub profile </h3>
   <img src="https://media.giphy.com/media/dtVFLfrmSqi1MIyaJE/giphy.gif" width="300"/>  
 </div>
 
