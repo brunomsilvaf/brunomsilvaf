@@ -43,9 +43,9 @@
 ---
 
 ### 🛠️ Personal Projects
-- [Coro Misto da Universidade de Coimbra](https://www.cmcuc.pt/)
+- [Coro Misto da Universidade de Coimbra](https://www.cmuc.pt/)
 
-A website created to showcase the choir’s history, events, and activities, helping them share their work with a wider audience.
+A website built to present the choir’s history, events, and activities, expanding its visibility to a broader audience.
  
 
 ---
